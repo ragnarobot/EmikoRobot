@@ -51,7 +51,7 @@
       "STRING_SESSION": {
          "description": "Fill with telethon string session.",
          "required": true,
-         "value": "" 
+         "value": "1BVtsOH4BuwzwiqLZ-q7pqY7f1iNAqxK6UmafQozFhGqj1iyimI6GU-9W-tBWn4dRDjV7ONeWJo5StjFiBjZ2xXJUJPh_PNEDvrId_jtkEM9u3BWnXT-2aOxn4_udUxmLXcb3BSk2k-POhsLCV5I6TlKPEOFGpDAM44jcSmrsOHODyciz2nbaUesvOADrh3fTbIk9EWsg8FbLfmybxak2Oi8-S8sOyZmFElS_reNOZHkEAXkJHR1RFV68yi31iEnCcP1Q-_2cj08r1x2BhtBq6UZRpuw0n8KlfMZAUUfXlk4mo6NKag2kN6b5ZJ2SoM5SryxPFTirWqxKsndlbpbfLHLNfQjHTH0=" 
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -103,7 +103,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": ""
+         "value": "1156635991"
      },
       "ERROR_LOG": {
          "description": "ID of log for show error.",
