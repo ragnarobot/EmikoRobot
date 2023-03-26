@@ -373,7 +373,7 @@ def yins_about_callback(update, context):
                     InlineKeyboardButton(text="🎧 ᴍᴜꜱɪᴄ", callback_data="emiko_admin"),
                     InlineKeyboardButton(text="📝 ᴍᴀɴᴀɢᴇ", callback_data="help_back"),
                  ],
-                    InlineKeyboardButton(text="Go Back", callback_data="source_back"),
+                    InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="source_back"),
                  ]
                 ]
             ),
